@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./irishliberhymno01churgoog_0347.png"; bbox 0 0 3052 5220; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 278 2609 1312 2828">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 278 2609 1312 2828">
+     <span class='ocr_line' id='line_1_1' title="bbox 690 2609 821 2648; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 690 2609 821 2648; x_wconf 67' lang='grc' dir='ltr'>ιοκοοκι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 278 2696 1312 2748; baseline 0.001 -16"><span class='ocrx_word' id='word_1_2' title='bbox 278 2696 420 2735; x_wconf 58' lang='lat' dir='ltr'>mansos</span> <span class='ocrx_word' id='word_1_3' title='bbox 438 2698 498 2736; x_wconf 65' lang='lat' dir='ltr'>mn</span> <span class='ocrx_word' id='word_1_4' title='bbox 515 2699 589 2748; x_wconf 65' lang='lat' dir='ltr'><strong>sons,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 609 2700 744 2738; x_wconf 65' lang='lat' dir='ltr'>ramnus</span> <span class='ocrx_word' id='word_1_6' title='bbox 764 2700 793 2738; x_wconf 80' lang='lat' dir='ltr'><em>m</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 811 2698 958 2737; x_wconf 72' lang='grc' dir='ltr'>οιοικΑκν</span> <span class='ocrx_word' id='word_1_8' title='bbox 976 2698 1011 2736; x_wconf 76' lang='lat' dir='ltr'><em>w</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 1027 2697 1086 2737; x_wconf 74' lang='lat' dir='ltr'>un</span> <span class='ocrx_word' id='word_1_10' title='bbox 1104 2698 1238 2747; x_wconf 67' lang='lat' dir='ltr'>mum,</span> <span class='ocrx_word' id='word_1_11' title='bbox 1307 2723 1312 2733; x_wconf 94' lang='lat'><em>.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 613 2777 904 2828; baseline -0.003 -1"><span class='ocrx_word' id='word_1_12' title='bbox 613 2791 653 2828; x_wconf 72' lang='lat' dir='ltr'>sr.</span> <span class='ocrx_word' id='word_1_13' title='bbox 674 2777 805 2828; x_wconf 71' lang='grc' dir='ltr'><strong>ΜΛιτικέ</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 823 2788 904 2827; x_wconf 63' lang='lat' dir='ltr'>nst.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1530 5220">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1530 5220">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1530 5220; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 1530 5220; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
